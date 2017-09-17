@@ -1,0 +1,444 @@
+Retrieving logs...
+============= i-028898436eb1c41eb ==============
+-------------------------------------
+/var/log/httpd/error_log
+-------------------------------------
+[Sun Sep 17 00:05:23.050023 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:23.189719 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:23.329811 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:23.471870 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:23.611649 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:23.751681 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:23.896079 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:24.550322 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:24.693875 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:24.837605 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:24.987938 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:25.131893 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:25.275821 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:25.417645 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:25.564006 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:25.708066 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:25.849879 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:25.993640 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:26.133699 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:26.277818 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:26.419767 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:26.563644 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:26.707821 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:26.855903 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:26.998033 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:27.139833 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:27.281691 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:27.425792 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:27.580010 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:27.719531 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:27.861735 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:28.001664 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:28.143806 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:28.287765 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:28.431749 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:28.577759 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:28.719725 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:28.861783 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:29.011898 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:29.153627 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:29.297523 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:29.441611 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:29.581987 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:29.723670 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:29.865787 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:30.008006 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:30.149942 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:30.291792 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:30.435624 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:30.579921 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:30.723529 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:30.868153 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:31.009631 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:31.149741 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:31.293818 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:31.437844 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:31.579617 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:31.723801 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:31.863734 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:32.005890 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:32.146124 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:32.289991 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:32.434260 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:32.577585 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:32.721954 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:32.866110 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:33.011410 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:33.352164 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:33.494047 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:33.637735 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:33.780277 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:33.919966 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:34.063908 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:34.207587 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:34.347602 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:34.490179 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:34.634110 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:34.773988 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:34.913887 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:35.056326 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:35.201888 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:35.341898 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:35.485878 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:35.638077 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:35.784161 2017] [:error] [pid 3339] [client 172.31.12.190:40032] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:35.930548 2017] [:error] [pid 3841] [client 172.31.12.190:40078] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:36.076076 2017] [:error] [pid 3841] [client 172.31.12.190:40078] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:36.219876 2017] [:error] [pid 3841] [client 172.31.12.190:40078] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:05:36.366360 2017] [:error] [pid 3841] [client 172.31.12.190:40078] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:06:59.282489 2017] [mpm_prefork:notice] [pid 3330] AH00169: caught SIGTERM, shutting down
+[Sun Sep 17 00:07:00.336361 2017] [suexec:notice] [pid 4606] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sun Sep 17 00:07:00.348748 2017] [so:warn] [pid 4606] AH01574: module wsgi_module is already loaded, skipping
+[Sun Sep 17 00:07:00.351445 2017] [lbmethod_heartbeat:notice] [pid 4606] AH02282: No slotmem from mod_heartmonitor
+[Sun Sep 17 00:07:00.353599 2017] [mpm_prefork:notice] [pid 4606] AH00163: Apache/2.4.27 (Amazon) mod_wsgi/3.5 Python/3.4.3 configured -- resuming normal operations
+[Sun Sep 17 00:07:00.353616 2017] [core:notice] [pid 4606] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Sep 17 00:07:02.942126 2017] [:error] [pid 4612] [client 127.0.0.1:55348] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:07:03.944391 2017] [:error] [pid 4613] [client 127.0.0.1:55350] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:07:04.946591 2017] [:error] [pid 4615] [client 127.0.0.1:55352] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:07:05.948255 2017] [:error] [pid 4616] [client 127.0.0.1:55354] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+[Sun Sep 17 00:10:33.879207 2017] [:error] [pid 4743] [client 172.31.12.190:40296] Target WSGI script not found or unable to stat: /opt/python/current/app/application.py
+
+
+
+-------------------------------------
+/opt/python/log/supervisord.log
+-------------------------------------
+2017-09-16 23:37:37,730 CRIT Supervisor running as root (no user in config file)
+2017-09-16 23:37:37,740 INFO RPC interface 'supervisor' initialized
+2017-09-16 23:37:37,741 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-09-16 23:37:37,741 INFO supervisord started with pid 2961
+2017-09-16 23:37:38,743 INFO spawned: 'httpd' with pid 3044
+2017-09-16 23:37:39,819 INFO success: httpd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2017-09-16 23:38:16,606 INFO stopped: httpd (exit status 0)
+2017-09-16 23:38:17,611 INFO spawned: 'httpd' with pid 3330
+2017-09-16 23:38:18,637 INFO success: httpd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2017-09-17 00:06:59,294 INFO stopped: httpd (exit status 0)
+2017-09-17 00:07:00,299 INFO spawned: 'httpd' with pid 4606
+2017-09-17 00:07:01,336 INFO success: httpd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+
+
+
+-------------------------------------
+/var/log/httpd/access_log
+-------------------------------------
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:24 +0000] "HEAD /db/phpmyadmin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:24 +0000] "HEAD /db/phpMyAdmin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:25 +0000] "HEAD /sqlmanager/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:25 +0000] "HEAD /mysqlmanager/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:25 +0000] "HEAD /php-myadmin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:25 +0000] "HEAD /phpmy-admin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:25 +0000] "HEAD /mysqladmin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:25 +0000] "HEAD /mysql-admin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:25 +0000] "HEAD /admin/phpmyadmin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:26 +0000] "HEAD /admin/phpMyAdmin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:26 +0000] "HEAD /admin/sysadmin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:26 +0000] "HEAD /admin/sqladmin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:26 +0000] "HEAD /admin/db/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:26 +0000] "HEAD /admin/web/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:26 +0000] "HEAD /admin/pMA/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:26 +0000] "HEAD /mysql/pma/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:27 +0000] "HEAD /mysql/db/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:27 +0000] "HEAD /mysql/web/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:27 +0000] "HEAD /mysql/pMA/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:27 +0000] "HEAD /sql/phpmanager/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:27 +0000] "HEAD /sql/php-myadmin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:27 +0000] "HEAD /sql/phpmy-admin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:28 +0000] "HEAD /sql/sql/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:28 +0000] "HEAD /sql/myadmin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:28 +0000] "HEAD /sql/webadmin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:28 +0000] "HEAD /sql/sqlweb/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:28 +0000] "HEAD /sql/websql/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:28 +0000] "HEAD /sql/webdb/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:28 +0000] "HEAD /sql/sqladmin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:29 +0000] "HEAD /sql/sql-admin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:29 +0000] "HEAD /sql/phpmyadmin2/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:29 +0000] "HEAD /sql/phpMyAdmin2/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:29 +0000] "HEAD /sql/phpMyAdmin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:29 +0000] "HEAD /db/myadmin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:29 +0000] "HEAD /db/webadmin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:29 +0000] "HEAD /db/dbweb/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:30 +0000] "HEAD /db/websql/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:30 +0000] "HEAD /db/webdb/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:30 +0000] "HEAD /db/dbadmin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:30 +0000] "HEAD /db/db-admin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:30 +0000] "HEAD /db/phpmyadmin3/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:30 +0000] "HEAD /db/phpMyAdmin3/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:30 +0000] "HEAD /db/phpMyAdmin-3/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:31 +0000] "HEAD /administrator/phpmyadmin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:31 +0000] "HEAD /administrator/phpMyAdmin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:31 +0000] "HEAD /administrator/db/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:31 +0000] "HEAD /administrator/web/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:31 +0000] "HEAD /administrator/pma/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:31 +0000] "HEAD /administrator/PMA/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:31 +0000] "HEAD /administrator/admin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:32 +0000] "HEAD /phpMyAdmin2/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:32 +0000] "HEAD /phpMyAdmin3/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:32 +0000] "HEAD /phpMyAdmin4/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:32 +0000] "HEAD /phpMyAdmin-3/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:32 +0000] "HEAD /php-my-admin/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:32 +0000] "HEAD /PMA2011/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:32 +0000] "HEAD /PMA2012/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:33 +0000] "HEAD /PMA2013/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:33 +0000] "HEAD /PMA2014/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:33 +0000] "HEAD /PMA2015/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:33 +0000] "HEAD /PMA2016/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:33 +0000] "HEAD /PMA2017/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:33 +0000] "HEAD /PMA2018/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:34 +0000] "HEAD /pma2011/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:34 +0000] "HEAD /pma2012/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:34 +0000] "HEAD /pma2013/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:34 +0000] "HEAD /pma2014/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:34 +0000] "HEAD /pma2015/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:34 +0000] "HEAD /pma2016/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:34 +0000] "HEAD /pma2017/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:35 +0000] "HEAD /pma2018/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:35 +0000] "HEAD /phpmyadmin2011/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:35 +0000] "HEAD /phpmyadmin2012/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:35 +0000] "HEAD /phpmyadmin2013/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:35 +0000] "HEAD /phpmyadmin2014/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:35 +0000] "HEAD /phpmyadmin2015/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:35 +0000] "HEAD /phpmyadmin2016/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:36 +0000] "HEAD /phpmyadmin2017/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:36 +0000] "HEAD /phpmyadmin2018/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+172.31.12.190 (84.74.26.10) - - [17/Sep/2017:00:05:36 +0000] "HEAD /phpmanager/ HTTP/1.1" 404 - "-" "Mozilla/5.0 Jorgee"
+::1 (-) - - [17/Sep/2017:00:06:20 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.27 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [17/Sep/2017:00:06:21 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.27 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [17/Sep/2017:00:06:22 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.27 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [17/Sep/2017:00:06:23 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.27 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [17/Sep/2017:00:06:24 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.27 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [17/Sep/2017:00:06:25 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.27 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [17/Sep/2017:00:06:26 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.27 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [17/Sep/2017:00:06:27 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.27 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [17/Sep/2017:00:06:28 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.27 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [17/Sep/2017:00:06:29 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.27 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [17/Sep/2017:00:06:30 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.27 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [17/Sep/2017:00:06:31 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.27 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [17/Sep/2017:00:06:32 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.27 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [17/Sep/2017:00:06:33 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.27 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+::1 (-) - - [17/Sep/2017:00:06:41 +0000] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.27 (Amazon) mod_wsgi/3.5 Python/3.4.3 (internal dummy connection)"
+127.0.0.1 (-) - - [17/Sep/2017:00:07:02 +0000] "GET / HTTP/1.1" 404 198 "-" "Python-urllib/2.7"
+127.0.0.1 (-) - - [17/Sep/2017:00:07:03 +0000] "GET / HTTP/1.1" 404 198 "-" "Python-urllib/2.7"
+127.0.0.1 (-) - - [17/Sep/2017:00:07:04 +0000] "GET / HTTP/1.1" 404 198 "-" "Python-urllib/2.7"
+127.0.0.1 (-) - - [17/Sep/2017:00:07:05 +0000] "GET / HTTP/1.1" 404 198 "-" "Python-urllib/2.7"
+172.31.12.190 (207.23.162.95) - - [17/Sep/2017:00:10:33 +0000] "GET / HTTP/1.1" 404 198 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
+
+
+
+-------------------------------------
+/var/log/eb-activity.log
+-------------------------------------
+    inflating: /opt/python/ondeck/app/static/fonts/glyphicons-halflings-regular.woff  
+   extracting: /opt/python/ondeck/app/static/fonts/glyphicons-halflings-regular.woff2  
+     creating: /opt/python/ondeck/app/static/js/
+    inflating: /opt/python/ondeck/app/static/js/bootstrap-select.js  
+    inflating: /opt/python/ondeck/app/static/js/bootstrap-select.js.map  
+    inflating: /opt/python/ondeck/app/static/js/bootstrap-select.min.js  
+    inflating: /opt/python/ondeck/app/static/js/bootstrap-slider.js  
+    inflating: /opt/python/ondeck/app/static/js/bootstrap.js  
+    inflating: /opt/python/ondeck/app/static/js/bootstrap.min.js  
+    inflating: /opt/python/ondeck/app/static/js/highlight.min.js  
+    inflating: /opt/python/ondeck/app/static/js/jquery-1.11.2.js  
+    inflating: /opt/python/ondeck/app/static/js/jquery-1.11.2.min.map  
+    inflating: /opt/python/ondeck/app/static/js/jquery.min.js  
+    inflating: /opt/python/ondeck/app/static/js/list.js  
+    inflating: /opt/python/ondeck/app/static/js/modernizr.js  
+    inflating: /opt/python/ondeck/app/static/js/npm.js  
+    inflating: /opt/python/ondeck/app/static/js/signUp.js  
+    inflating: /opt/python/ondeck/app/static/loader.gif  
+     creating: /opt/python/ondeck/app/templates/
+    inflating: /opt/python/ondeck/app/templates/header.html  
+    inflating: /opt/python/ondeck/app/templates/index.html  
+    inflating: /opt/python/ondeck/app/templates/myJournals.html  
+    inflating: /opt/python/ondeck/app/views.py  
+[2017-09-17T00:06:56.460Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage0/AppDeployPreHook/03deploy.py] : Starting activity...
+[2017-09-17T00:06:57.022Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage0/AppDeployPreHook/03deploy.py] : Completed activity. Result:
+  Requirement already satisfied (use --upgrade to upgrade): alembic==0.9.5 in /opt/python/run/venv/lib/python3.4/site-packages (from -r /opt/python/ondeck/app/requirements.txt (line 1))
+  Requirement already satisfied (use --upgrade to upgrade): click==6.7 in /opt/python/run/venv/lib/python3.4/site-packages (from -r /opt/python/ondeck/app/requirements.txt (line 2))
+  Requirement already satisfied (use --upgrade to upgrade): Flask==0.12.2 in /opt/python/run/venv/lib/python3.4/site-packages (from -r /opt/python/ondeck/app/requirements.txt (line 3))
+  Requirement already satisfied (use --upgrade to upgrade): Flask-Login==0.4.0 in /opt/python/run/venv/lib/python3.4/site-packages (from -r /opt/python/ondeck/app/requirements.txt (line 4))
+  Requirement already satisfied (use --upgrade to upgrade): Flask-Migrate==2.1.1 in /opt/python/run/venv/lib/python3.4/site-packages (from -r /opt/python/ondeck/app/requirements.txt (line 5))
+  Requirement already satisfied (use --upgrade to upgrade): Flask-Script==2.0.6 in /opt/python/run/venv/lib/python3.4/site-packages (from -r /opt/python/ondeck/app/requirements.txt (line 6))
+  Requirement already satisfied (use --upgrade to upgrade): Flask-SQLAlchemy==2.2 in /opt/python/run/venv/lib/python3.4/site-packages (from -r /opt/python/ondeck/app/requirements.txt (line 7))
+  Requirement already satisfied (use --upgrade to upgrade): Flask-WTF==0.14.2 in /opt/python/run/venv/lib/python3.4/site-packages (from -r /opt/python/ondeck/app/requirements.txt (line 8))
+  Requirement already satisfied (use --upgrade to upgrade): itsdangerous==0.24 in /opt/python/run/venv/lib/python3.4/site-packages (from -r /opt/python/ondeck/app/requirements.txt (line 9))
+  Requirement already satisfied (use --upgrade to upgrade): Jinja2==2.9.6 in /opt/python/run/venv/lib/python3.4/site-packages (from -r /opt/python/ondeck/app/requirements.txt (line 10))
+  Requirement already satisfied (use --upgrade to upgrade): Mako==1.0.7 in /opt/python/run/venv/lib/python3.4/site-packages (from -r /opt/python/ondeck/app/requirements.txt (line 11))
+  Requirement already satisfied (use --upgrade to upgrade): MarkupSafe==1.0 in /opt/python/run/venv/lib64/python3.4/site-packages (from -r /opt/python/ondeck/app/requirements.txt (line 12))
+  Requirement already satisfied (use --upgrade to upgrade): python-dateutil==2.6.1 in /opt/python/run/venv/lib/python3.4/site-packages (from -r /opt/python/ondeck/app/requirements.txt (line 13))
+  Requirement already satisfied (use --upgrade to upgrade): python-editor==1.0.3 in /opt/python/run/venv/lib/python3.4/site-packages (from -r /opt/python/ondeck/app/requirements.txt (line 14))
+  Requirement already satisfied (use --upgrade to upgrade): six==1.10.0 in /opt/python/run/venv/lib/python3.4/site-packages (from -r /opt/python/ondeck/app/requirements.txt (line 15))
+  Requirement already satisfied (use --upgrade to upgrade): SQLAlchemy==1.1.14 in /opt/python/run/venv/lib64/python3.4/site-packages (from -r /opt/python/ondeck/app/requirements.txt (line 16))
+  Requirement already satisfied (use --upgrade to upgrade): Werkzeug==0.12.2 in /opt/python/run/venv/lib/python3.4/site-packages (from -r /opt/python/ondeck/app/requirements.txt (line 17))
+  Requirement already satisfied (use --upgrade to upgrade): WTForms==2.1 in /opt/python/run/venv/lib/python3.4/site-packages (from -r /opt/python/ondeck/app/requirements.txt (line 18))
+  You are using pip version 7.1.2, however version 9.0.1 is available.
+  You should consider upgrading via the 'pip install --upgrade pip' command.
+[2017-09-17T00:06:57.022Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage0/AppDeployPreHook/04configen.py] : Starting activity...
+[2017-09-17T00:06:58.487Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage0/AppDeployPreHook/04configen.py] : Completed activity. Result:
+  2017-09-17 00:06:58,481 ERROR    The specified WSGIPath of "application.py" was not found in the source bundle
+[2017-09-17T00:06:58.488Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage0/AppDeployPreHook] : Completed activity. Result:
+  Successfully execute hooks in directory /opt/elasticbeanstalk/hooks/appdeploy/pre.
+[2017-09-17T00:06:58.488Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage0/EbExtensionPostBuild] : Starting activity...
+[2017-09-17T00:06:58.751Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage0/EbExtensionPostBuild/Infra-EmbeddedPostBuild] : Starting activity...
+[2017-09-17T00:06:58.751Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage0/EbExtensionPostBuild/Infra-EmbeddedPostBuild] : Completed activity.
+[2017-09-17T00:06:58.763Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage0/EbExtensionPostBuild] : Completed activity.
+[2017-09-17T00:06:58.764Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage0/InfraCleanEbextension] : Starting activity...
+[2017-09-17T00:06:58.764Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage0/InfraCleanEbextension] : Completed activity. Result:
+  Cleaned ebextensions subdirectories from /opt/python/ondeck/app.
+[2017-09-17T00:06:58.764Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage0] : Completed activity. Result:
+  Application update - Command CMD-AppDeploy stage 0 completed
+[2017-09-17T00:06:58.764Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage1] : Starting activity...
+[2017-09-17T00:06:58.765Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage1/AppDeployEnactHook] : Starting activity...
+[2017-09-17T00:06:58.765Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage1/AppDeployEnactHook/01flip.py] : Starting activity...
+[2017-09-17T00:07:06.956Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage1/AppDeployEnactHook/01flip.py] : Completed activity. Result:
+  httpd: stopped
+  httpd: started
+  httpd                            RUNNING   pid 4606, uptime 0:00:02
+  2017-09-17 00:07:06,949 INFO     Apache is running, but root page is not responding in 3 seconds.
+[2017-09-17T00:07:06.956Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage1/AppDeployEnactHook/01stop_xray.sh] : Starting activity...
+[2017-09-17T00:07:07.070Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage1/AppDeployEnactHook/01stop_xray.sh] : Completed activity. Result:
+  Executing: if ( initctl status xray | grep start ); then initctl stop xray; fi
+  
+[2017-09-17T00:07:07.070Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage1/AppDeployEnactHook/02create_pids_for_monitoring.sh] : Starting activity...
+[2017-09-17T00:07:07.174Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage1/AppDeployEnactHook/02create_pids_for_monitoring.sh] : Completed activity. Result:
+  + chmod 0755 /var/run/httpd
+  + /opt/elasticbeanstalk/bin/healthd-track-pidfile --proxy httpd
+  + /opt/elasticbeanstalk/bin/healthd-track-pidfile --name application --location /opt/python/run/supervisord.pid
+[2017-09-17T00:07:07.174Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage1/AppDeployEnactHook/02start_xray.sh] : Starting activity...
+[2017-09-17T00:07:07.284Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage1/AppDeployEnactHook/02start_xray.sh] : Completed activity.
+[2017-09-17T00:07:07.284Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage1/AppDeployEnactHook] : Completed activity. Result:
+  Successfully execute hooks in directory /opt/elasticbeanstalk/hooks/appdeploy/enact.
+[2017-09-17T00:07:07.284Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage1/AppDeployPostHook] : Starting activity...
+[2017-09-17T00:07:07.284Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage1/AppDeployPostHook] : Completed activity. Result:
+  Successfully execute hooks in directory /opt/elasticbeanstalk/hooks/appdeploy/post.
+[2017-09-17T00:07:07.284Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AppDeployStage1] : Completed activity. Result:
+  Application version switch - Command CMD-AppDeploy stage 1 completed
+[2017-09-17T00:07:07.284Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AddonsAfter] : Starting activity...
+[2017-09-17T00:07:07.284Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AddonsAfter/ConfigLogRotation] : Starting activity...
+[2017-09-17T00:07:07.284Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AddonsAfter/ConfigLogRotation/10-config.sh] : Starting activity...
+[2017-09-17T00:07:07.365Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AddonsAfter/ConfigLogRotation/10-config.sh] : Completed activity. Result:
+  Disabled forced hourly log rotation.
+[2017-09-17T00:07:07.365Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AddonsAfter/ConfigLogRotation] : Completed activity. Result:
+  Successfully execute hooks in directory /opt/elasticbeanstalk/addons/logpublish/hooks/config.
+[2017-09-17T00:07:07.365Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2/AddonsAfter] : Completed activity.
+[2017-09-17T00:07:07.365Z] INFO  [4437]  - [Application update app-8a7b-170916_170646@2] : Completed activity. Result:
+  Application update - Command CMD-AppDeploy succeeded
+[2017-09-17T00:10:45.876Z] INFO  [4814]  - [CMD-TailLogs] : Starting activity...
+[2017-09-17T00:10:45.876Z] INFO  [4814]  - [CMD-TailLogs/AddonsBefore] : Starting activity...
+[2017-09-17T00:10:45.876Z] INFO  [4814]  - [CMD-TailLogs/AddonsBefore] : Completed activity.
+[2017-09-17T00:10:45.876Z] INFO  [4814]  - [CMD-TailLogs/TailLogs] : Starting activity...
+[2017-09-17T00:10:45.876Z] INFO  [4814]  - [CMD-TailLogs/TailLogs/TailLogs] : Starting activity...
+
+
+
+-------------------------------------
+/var/log/eb-commandprocessor.log
+-------------------------------------
+[2017-09-16T23:55:26.835Z] DEBUG [3958]  : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||_API||_Commands..
+[2017-09-16T23:55:26.836Z] INFO  [3958]  : Found enabled addons: ["logstreaming", "logpublish"].
+[2017-09-16T23:55:26.837Z] INFO  [3958]  : Updating Command definition of addon logstreaming.
+[2017-09-16T23:55:26.837Z] INFO  [3958]  : Updating Command definition of addon logpublish.
+[2017-09-16T23:55:26.837Z] DEBUG [3958]  : Loaded definition of Command CMD-TailLogs.
+[2017-09-16T23:55:26.837Z] INFO  [3958]  : Executing CMD-TailLogs
+[2017-09-16T23:55:26.837Z] INFO  [3958]  : Executing command: CMD-TailLogs...
+[2017-09-16T23:55:26.837Z] INFO  [3958]  : Executing command CMD-TailLogs activities...
+[2017-09-16T23:55:26.837Z] DEBUG [3958]  : Setting environment variables..
+[2017-09-16T23:55:26.837Z] INFO  [3958]  : Running AddonsBefore for command CMD-TailLogs...
+[2017-09-16T23:55:26.837Z] DEBUG [3958]  : Running stages of Command CMD-TailLogs from stage 0 to stage 0...
+[2017-09-16T23:55:26.838Z] INFO  [3958]  : Running stage 0 of command CMD-TailLogs...
+[2017-09-16T23:55:26.838Z] DEBUG [3958]  : Loaded 1 actions for stage 0.
+[2017-09-16T23:55:26.838Z] INFO  [3958]  : Running 1 of 1 actions: TailLogs...
+[2017-09-16T23:55:27.024Z] INFO  [3958]  : Running AddonsAfter for command CMD-TailLogs...
+[2017-09-16T23:55:27.024Z] INFO  [3958]  : Command CMD-TailLogs succeeded!
+[2017-09-16T23:55:27.025Z] INFO  [3958]  : Command processor returning results: 
+{"status":"SUCCESS","api_version":"1.0","results":[{"status":"SUCCESS","msg":"","returncode":0,"events":[{"msg":"[Instance: i-028898436eb1c41eb] Successfully finished tailing 5 log(s)","severity":"INFO","timestamp":1505606127025}]}]}
+[2017-09-17T00:06:54.319Z] DEBUG [4437]  : Reading config file: /etc/elasticbeanstalk/.aws-eb-stack.properties
+[2017-09-17T00:06:54.320Z] DEBUG [4437]  : Checking if the command processor should execute...
+[2017-09-17T00:06:54.322Z] DEBUG [4437]  : Checking whether the command is applicable to instance (i-028898436eb1c41eb)..
+[2017-09-17T00:06:54.322Z] INFO  [4437]  : Command is applicable to this instance (i-028898436eb1c41eb)..
+[2017-09-17T00:06:54.322Z] DEBUG [4437]  : Checking if the received command stage is valid..
+[2017-09-17T00:06:54.322Z] INFO  [4437]  : No stage_num in command. Valid stage..
+[2017-09-17T00:06:54.322Z] INFO  [4437]  : Received command CMD-AppDeploy: {"execution_data":"{\"leader_election\":\"true\"}","instance_ids":["i-028898436eb1c41eb"],"data":"manifest_1505606812066","command_name":"CMD-AppDeploy","api_version":"1.0","resource_name":"AWSEBAutoScalingGroup","request_id":"19768477-9b3c-11e7-ad7b-774f249fcd76"}
+[2017-09-17T00:06:54.322Z] INFO  [4437]  : Command processor should execute command.
+[2017-09-17T00:06:54.322Z] DEBUG [4437]  : Storing current stage..
+[2017-09-17T00:06:54.322Z] DEBUG [4437]  : Stage_num does not exist. Not saving null stage. Returning..
+[2017-09-17T00:06:54.322Z] DEBUG [4437]  : Reading config file: /etc/elasticbeanstalk/.aws-eb-stack.properties
+[2017-09-17T00:06:54.323Z] DEBUG [4437]  : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||_ContainerConfigFileContent||commands..
+[2017-09-17T00:06:54.323Z] DEBUG [4437]  : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||_API||_Commands..
+[2017-09-17T00:06:54.324Z] INFO  [4437]  : Found enabled addons: ["logstreaming", "logpublish"].
+[2017-09-17T00:06:54.325Z] INFO  [4437]  : Updating Command definition of addon logstreaming.
+[2017-09-17T00:06:54.325Z] INFO  [4437]  : Updating Command definition of addon logpublish.
+[2017-09-17T00:06:54.325Z] DEBUG [4437]  : Refreshing metadata...
+[2017-09-17T00:06:54.578Z] DEBUG [4437]  : Refreshed environment metadata.
+[2017-09-17T00:06:54.579Z] INFO  [4437]  : Recreated directory /opt/elasticbeanstalk/deploy/configuration/.
+[2017-09-17T00:06:54.579Z] DEBUG [4437]  : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||_AppSourceUrlFileContent||url..
+[2017-09-17T00:06:54.579Z] INFO  [4437]  : Created appsource url file at /opt/elasticbeanstalk/deploy/configuration/appsourceurl.
+[2017-09-17T00:06:54.579Z] DEBUG [4437]  : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||_ContainerConfigFileContent..
+[2017-09-17T00:06:54.580Z] INFO  [4437]  : Created container config file at /opt/elasticbeanstalk/deploy/configuration/containerconfiguration.
+[2017-09-17T00:06:54.580Z] DEBUG [4437]  : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||_ContainerConfigFileContent||commands..
+[2017-09-17T00:06:54.581Z] DEBUG [4437]  : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||_API||_Commands..
+[2017-09-17T00:06:54.582Z] INFO  [4437]  : Found enabled addons: ["logstreaming", "logpublish"].
+[2017-09-17T00:06:54.583Z] INFO  [4437]  : Updating Command definition of addon logstreaming.
+[2017-09-17T00:06:54.583Z] INFO  [4437]  : Updating Command definition of addon logpublish.
+[2017-09-17T00:06:54.583Z] DEBUG [4437]  : Retrieving metadata for key: AWS::CloudFormation::Init||Infra-WriteApplication2||files..
+[2017-09-17T00:06:54.583Z] DEBUG [4437]  : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||ManifestFileS3Key..
+[2017-09-17T00:06:54.676Z] INFO  [4437]  : Loading manifest from bucket 'elasticbeanstalk-us-east-2-400788870555' using computed S3 key 'resources/environments/e-a4c33bsx4v/_runtime/versions/manifest_1505606812066'.
+[2017-09-17T00:06:54.737Z] INFO  [4437]  : Updated manifest cache: deployment ID 2 and serial 2.
+[2017-09-17T00:06:54.737Z] DEBUG [4437]  : Loaded definition of Command CMD-AppDeploy.
+[2017-09-17T00:06:54.737Z] INFO  [4437]  : Executing Application update
+[2017-09-17T00:06:54.737Z] INFO  [4437]  : Executing command: CMD-AppDeploy...
+[2017-09-17T00:06:54.738Z] INFO  [4437]  : Executing command CMD-AppDeploy activities...
+[2017-09-17T00:06:54.738Z] DEBUG [4437]  : Setting environment variables..
+[2017-09-17T00:06:54.738Z] INFO  [4437]  : Running AddonsBefore for command CMD-AppDeploy...
+[2017-09-17T00:06:54.855Z] DEBUG [4437]  : Running stages of Command CMD-AppDeploy from stage 0 to stage 1...
+[2017-09-17T00:06:54.855Z] INFO  [4437]  : Running stage 0 of command CMD-AppDeploy...
+[2017-09-17T00:06:54.855Z] INFO  [4437]  : Running leader election...
+[2017-09-17T00:06:55.104Z] INFO  [4437]  : Instance is Leader.
+[2017-09-17T00:06:55.105Z] DEBUG [4437]  : Loaded 5 actions for stage 0.
+[2017-09-17T00:06:55.105Z] INFO  [4437]  : Running 1 of 5 actions: DownloadSourceBundle...
+[2017-09-17T00:06:55.413Z] INFO  [4437]  : Running 2 of 5 actions: EbExtensionPreBuild...
+[2017-09-17T00:06:55.691Z] INFO  [4437]  : Running 3 of 5 actions: AppDeployPreHook...
+[2017-09-17T00:06:58.488Z] INFO  [4437]  : Running 4 of 5 actions: EbExtensionPostBuild...
+[2017-09-17T00:06:58.764Z] INFO  [4437]  : Running 5 of 5 actions: InfraCleanEbextension...
+[2017-09-17T00:06:58.764Z] INFO  [4437]  : Running stage 1 of command CMD-AppDeploy...
+[2017-09-17T00:06:58.765Z] DEBUG [4437]  : Loaded 2 actions for stage 1.
+[2017-09-17T00:06:58.765Z] INFO  [4437]  : Running 1 of 2 actions: AppDeployEnactHook...
+[2017-09-17T00:07:07.284Z] INFO  [4437]  : Running 2 of 2 actions: AppDeployPostHook...
+[2017-09-17T00:07:07.284Z] INFO  [4437]  : Running AddonsAfter for command CMD-AppDeploy...
+[2017-09-17T00:07:07.365Z] INFO  [4437]  : Command CMD-AppDeploy succeeded!
+[2017-09-17T00:07:07.366Z] INFO  [4437]  : Command processor returning results: 
+{"status":"SUCCESS","api_version":"1.0","results":[{"status":"SUCCESS","msg":"","returncode":0,"events":[{"msg":"Your WSGIPath refers to a file that does not exist.","severity":"ERROR","timestamp":1505606818}]}]}
+[2017-09-17T00:10:45.870Z] DEBUG [4814]  : Reading config file: /etc/elasticbeanstalk/.aws-eb-stack.properties
+[2017-09-17T00:10:45.871Z] DEBUG [4814]  : Checking if the command processor should execute...
+[2017-09-17T00:10:45.873Z] DEBUG [4814]  : Checking whether the command is applicable to instance (i-028898436eb1c41eb)..
+[2017-09-17T00:10:45.873Z] INFO  [4814]  : Command is applicable to this instance (i-028898436eb1c41eb)..
+[2017-09-17T00:10:45.873Z] DEBUG [4814]  : Checking if the received command stage is valid..
+[2017-09-17T00:10:45.873Z] INFO  [4814]  : No stage_num in command. Valid stage..
+[2017-09-17T00:10:45.873Z] INFO  [4814]  : Received command CMD-TailLogs: {"execution_data":"{\"aws_access_key_id\":\"ASIAILM6XBWUNWIJIX3A\",\"signature\":\"rLns35dPFKAiN4UZw\\\/P2BfXyNi0=\",\"security_token\":\"FQoDYXdzEGkaDI7ENuDi\\\/M46n+c6+iKpA7ffnvDNy2LaMH\\\/9404YI\\\/NY0wb\\\/sbNzA5uHwjRUY14\\\/Xo2drjkN\\\/A9UodCy8NY24VUPIu9Onplbx3rloLY3yAQ92jBfWhPKSMiSVwqgATtwRkQJ00JXt2OX20+l1wZMN5rs9lKhzNjred+Y3cwS2XOno1SBu78oD9f27h8V8HjtEDrx5hYKMdM8xNesN+AZ5ADgkWLoRLF5sdqVCeEuHcZn3MlU3n1tzD5AZjzenB1RC6+DVfZJklHc4fbaBEUgcotLoDjbnlX5yK\\\/ogTHiVH1vjLrlrVKIMx+oKo3L\\\/sgakTXwAdvBKayPZIVctFw8Z6Q+bo2hH5FKzShKe+XPZoKsqbgLmt8H1Jfp4y7Kndmv65I5UeIClMSk2P2evaBeNAnw7oORN8C9bnr8sBIYzkyqGHzgZz0gQnLhl5xH\\\/HSG2LUGWfwOy+YQV8JFh4UmYXjTQ4E\\\/sNEdmJbKPkknRWfho\\\/tw826Pyug8D4pIw0FI5Yn4WrpogdWG0cqPOX\\\/YPN6ktsGrF6gCqxhOgLI\\\/0VDCFFCCrNmaDWoh\\\/rNEW2WSYKP8O6S5HYCcKJj59s0F\",\"policy\":\"eyJleHBpcmF0aW9uIjoiMjAxNy0wOS0xN1QwMDo0MDo0My42NTlaIiwiY29uZGl0aW9ucyI6W1sic3RhcnRzLXdpdGgiLCIkeC1hbXotbWV0YS10aW1lX3N0YW1wIiwiIl0sWyJzdGFydHMtd2l0aCIsIiR4LWFtei1tZXRhLXB1Ymxpc2hfbWVjaGFuaXNtIiwiIl0sWyJzdGFydHMtd2l0aCIsIiRrZXkiLCJyZXNvdXJjZXNcL2Vudmlyb25tZW50c1wvbG9nc1wvIl0sWyJzdGFydHMtd2l0aCIsIiR4LWFtei1tZXRhLWJhdGNoX2lkIiwiIl0sWyJzdGFydHMtd2l0aCIsIiR4LWFtei1tZXRhLWZpbGVfbmFtZSIsIiJdLFsic3RhcnRzLXdpdGgiLCIkeC1hbXotc2VjdXJpdHktdG9rZW4iLCIiXSxbInN0YXJ0cy13aXRoIiwiJENvbnRlbnQtVHlwZSIsIiJdLFsiZXEiLCIkYnVja2V0IiwiZWxhc3RpY2JlYW5zdGFsay11cy1lYXN0LTItNDAwNzg4ODcwNTU1Il0sWyJlcSIsIiRhY2wiLCJwcml2YXRlIl1dfQ==\"}","instance_ids":["i-028898436eb1c41eb"],"data":"a58a329d-9b3c-11e7-970b-2d6c6d08a44f","command_name":"CMD-TailLogs","api_version":"1.0","resource_name":"AWSEBAutoScalingGroup","request_id":"a58a329d-9b3c-11e7-970b-2d6c6d08a44f"}
+[2017-09-17T00:10:45.873Z] INFO  [4814]  : Command processor should execute command.
+[2017-09-17T00:10:45.873Z] DEBUG [4814]  : Storing current stage..
+[2017-09-17T00:10:45.873Z] DEBUG [4814]  : Stage_num does not exist. Not saving null stage. Returning..
+[2017-09-17T00:10:45.873Z] DEBUG [4814]  : Reading config file: /etc/elasticbeanstalk/.aws-eb-stack.properties
+[2017-09-17T00:10:45.873Z] DEBUG [4814]  : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||_ContainerConfigFileContent||commands..
+[2017-09-17T00:10:45.874Z] DEBUG [4814]  : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||_API||_Commands..
+[2017-09-17T00:10:45.874Z] INFO  [4814]  : Found enabled addons: ["logstreaming", "logpublish"].
+[2017-09-17T00:10:45.875Z] INFO  [4814]  : Updating Command definition of addon logstreaming.
+[2017-09-17T00:10:45.875Z] INFO  [4814]  : Updating Command definition of addon logpublish.
+[2017-09-17T00:10:45.875Z] DEBUG [4814]  : Loaded definition of Command CMD-TailLogs.
+[2017-09-17T00:10:45.876Z] INFO  [4814]  : Executing CMD-TailLogs
+[2017-09-17T00:10:45.876Z] INFO  [4814]  : Executing command: CMD-TailLogs...
+[2017-09-17T00:10:45.876Z] INFO  [4814]  : Executing command CMD-TailLogs activities...
+[2017-09-17T00:10:45.876Z] DEBUG [4814]  : Setting environment variables..
+[2017-09-17T00:10:45.876Z] INFO  [4814]  : Running AddonsBefore for command CMD-TailLogs...
+[2017-09-17T00:10:45.876Z] DEBUG [4814]  : Running stages of Command CMD-TailLogs from stage 0 to stage 0...
+[2017-09-17T00:10:45.876Z] INFO  [4814]  : Running stage 0 of command CMD-TailLogs...
+[2017-09-17T00:10:45.876Z] DEBUG [4814]  : Loaded 1 actions for stage 0.
+[2017-09-17T00:10:45.876Z] INFO  [4814]  : Running 1 of 1 actions: TailLogs...
+
+
+
