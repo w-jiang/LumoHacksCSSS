@@ -1,6 +1,7 @@
 # DB username: tylerjamesmalloy
 # DB password: PTgRa%_'^;xpn&.,4r&ytcrqd.cCMY#\
 # DB instance: lumohackscsss
+# aws-eb passphrase: Y_8(ds9/e^bTQzpX
 
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
